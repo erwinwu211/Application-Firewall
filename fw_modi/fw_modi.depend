@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481646065 source:/home/wt/Codeblocks/develop1/fw_modi/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

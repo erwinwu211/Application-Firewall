@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1481717362 source:/home/wt/Codeblocks/develop1/Appfw/Appfw.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<string.h>
+	<stdio.h>
+	<getopt.h>
+	<pthread.h>
+	<arpa/inet.h>
+	<stdlib.h>
+
+1481510062 source:/home/wt/Codeblocks/develop1/Appfw/modi.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
